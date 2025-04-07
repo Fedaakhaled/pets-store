@@ -29,3 +29,6 @@ Landed cost breakdown
 Geographic sales spread
 
 Built with Power BI. Interactive filters available.
+
+![image](https://github.com/user-attachments/assets/07e416f7-4e09-4de3-9d5b-003f9f002231)
+
